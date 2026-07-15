@@ -8,3 +8,6 @@ assets/平板网关作品集/*.png
 assets/智慧园区APP/*.png
 assets/美容预约作品/*.png
 assets/poster-*.png
+
+# Local Netlify folder
+.netlify
